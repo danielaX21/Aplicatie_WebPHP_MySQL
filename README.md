@@ -1,6 +1,6 @@
 # ConsultXpert - Aplicație Web PHP + MySQL
 
-Acesta este un proiect realizat pentru disciplina **Sisteme Informatice de Asistare a Deciziilor**, având ca scop dezvoltarea unei aplicații web dinamice folosind PHP și MySQL.
+Acesta este un proiect ce are ca scop dezvoltarea unei aplicații web dinamice folosind PHP și MySQL.
 
 ## 📌 Descriere
 
